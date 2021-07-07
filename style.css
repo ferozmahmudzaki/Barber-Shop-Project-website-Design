@@ -216,7 +216,7 @@ nav ul li a{
 }
 .servise-box{
     width: 80%;
-    display: wrap;
+    display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
     margin: auto;
